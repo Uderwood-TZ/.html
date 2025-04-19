@@ -8,9 +8,6 @@
 - ⏱️ 游戏速度控制
 - 🖥️ 响应式布局，完美适配各种屏幕
 ### 本地运行
-```bash
-git clone https://github.com/yourusername/Snake-game.git
-cd Snake-game
 # 直接打开index.html文件
 ## 项目结构
 Snake-game/
